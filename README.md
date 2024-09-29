@@ -20,7 +20,7 @@ I'm currently pursuing my Master's in Data Analytics at San Jose State Universit
 - 💼 [LinkedIn](https://linkedin.com/in/shabari-vignesh/)
 
 ## GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShabariVignesh&show_icons=true&theme=radical)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
