@@ -1,7 +1,7 @@
 # Hello, I'm Shabari Vignesh! 👋
 
 ## About Me
-I'm currently pursuing my Master's in Data Analytics at San Jose State University with a strong interest in **data science**, **machine learning**, and **cloud technologies**. I love working with Python, SQL, AWS, and GCP, and am also diving into deep learning with PyTorch and TensorFlow.
+I pursued my Master's in Applied Data Science at San Jose State University with a strong interest in **Artifical Intelligence**, **Machine Learning**, and **Cloud Technologies**. I love working with Python, SQL, AWS, and GCP, and am also diving into deep learning with PyTorch and TensorFlow.
 
 ## What I Do:
 - 💻 **Data Science**: Predictive modeling, data visualization, and insights generation.
